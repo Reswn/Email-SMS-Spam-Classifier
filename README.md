@@ -32,8 +32,7 @@ Aplikasi ini digunakan untuk mengklasifikasikan apakah sebuah pesan teks (email 
 1. **Clone repositori:**
 
 ```bash
-git clone https://github.com/username/email-sms-classifier.git
-cd email-sms-classifier
+git clone https://github.com/Reswn/Email-SMS-Spam-Classifier.git
 ```
 
 2. **Install dependensi:**
