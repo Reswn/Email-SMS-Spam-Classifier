@@ -1,6 +1,18 @@
 
 # 📧 Email/SMS Classifier
 
+## 🖼 Tampilan Aplikasi
+
+Berikut adalah tampilan antarmuka dari Email/SMS Spam Classifier:
+
+![Tampilan aplikasi - Halaman utama](https://github.com/Reswn/Email-SMS-Spam-Classifier/raw/main/screencapture-localhost-8501-2025-05-29-18_04_45.png?raw=true)
+
+> *Gambar: Form input teks untuk memasukkan pesan/email*
+
+![Tampilan aplikasi - Hasil prediksi](https://github.com/Reswn/Email-SMS-Spam-Classifier/raw/main/screencapture-localhost-8501-2025-05-29-18_05_16.png?raw=true)
+
+> *Gambar: Hasil klasifikasi apakah pesan tersebut spam atau ham*
+
 Aplikasi ini digunakan untuk mengklasifikasikan apakah sebuah pesan teks (email atau SMS) termasuk **Spam** atau **Ham** (bukan spam). Cocok untuk membantu menyaring pesan masuk secara otomatis menggunakan model Machine Learning.
 
 ---
